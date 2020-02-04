@@ -9,3 +9,5 @@ class Home extends Components {
     );
   }
 }
+
+export default Home;
