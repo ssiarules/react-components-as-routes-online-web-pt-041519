@@ -9,5 +9,3 @@ class Home extends Components {
     );
   }
 }
-
-
